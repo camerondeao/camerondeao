@@ -2,14 +2,14 @@
 
 About Me
 ---------------------------------------
-- :computer: I will receive my Bachelor of Science in Computer Programming in November from Grand Canyon University.
-- :school: I receieved a Certificate of Game Design in June of 2014 from Riverside Community College.
-- :computer: Favorite development language: C#
+- :computer: I graduated summa cum laude with a Bachelor of Science in Computer Programming from Grand Canyon University.
+- :school: I earned a Certificate of Game Design in June of 2014 from Riverside Community College.
+- :computer: Favorite development languages: C#, Java, PHP, C++
+- 💬 Ask me about my personal senior project at Grand Canyon University - [Social Movie Managament Application](https://github.com/camerondeao/SocialMovieManagementApplication)
 - :necktie: First Development Job: Software Developer - [ArcanForge](https://arcanforge.com/)
 - :iphone: First Shipped Title: Fetch Force (Android/iOS) - [ArcanForge](https://arcanforge.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cameron-deao/)
 - :computer: Personal Portfolio Website: [Portfolio](https://www.camerondeao.com)
-- 🔭 I’m currently working on a rapid prototype of a roguelike dungeon automated map creator in Unity utilizing C# (similar to The Binding of Isaac).
 - :dvd: Fun fact: In my free time I collect movies and have a collection of over 300 movies! 
 - :movie_camera: Favorite Movie: The Godfather
 - :video_game: Favorite Video Game: The Legend of Zelda Ocarina of Time 
